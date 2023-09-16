@@ -4,8 +4,8 @@ const prod = {
 };
 
 const dev = {
-    catalogAPIurl: "http://localhost:3010/catalog",
-    imagesAPIurl: "http://localhost:3020/images"
+    catalogAPIurl: "http://20.197.229.124:30010/catalog",
+    imagesAPIurl: "http://20.197.229.124:30020/images"
 };
 
 const config =
